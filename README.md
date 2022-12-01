@@ -1,2 +1,2 @@
 # Test_course
-test
+Purposeful testing.
